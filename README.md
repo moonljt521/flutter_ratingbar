@@ -2,16 +2,4 @@
 
 实现 ratingbar 的几种思路.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_ratingbar
+![234](https://user-images.githubusercontent.com/15066998/228108790-6e9f39d5-03d8-4a73-a12c-4d1e980f0668.gif)
