@@ -93,7 +93,7 @@ class MyScoreState extends State<MyScoreWidget> {
             },
           ),
 
-          Text('继成renderBox绘制'),
+          Text('继承renderBox绘制'),
           SizedBox(
             child: RichScoreContainer(score: 3.5,),
             width: 250,
