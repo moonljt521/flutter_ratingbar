@@ -1,6 +1,6 @@
 # flutter_ratingbar
 
-A new Flutter project.
+实现 ratingbar 的几种思路.
 
 ## Getting Started
 
